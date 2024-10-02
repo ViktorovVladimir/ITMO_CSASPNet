@@ -12,9 +12,23 @@ namespace Ex01_CreateProjectUsingRazorPages.Pages
             _logger = logger;
         }
 
-        public void OnGet()
-        {
 
-        }
+        //--.
+        public string Name { get; set; }
+        public decimal? Price { get; set; }
+        public bool IsCorrect { get; set; } = true;
+
+        //--.
+        public void OnGet(string name, decimal? price)
+        {   
+            if( price == null || price < 0 || string.IsNullOrEmpty(name) )
+            {
+                IsCorrect = false; 
+                return;
+            }
+            //--.
+            Price = price;
+            Name = name;
+        }   
     }
 }

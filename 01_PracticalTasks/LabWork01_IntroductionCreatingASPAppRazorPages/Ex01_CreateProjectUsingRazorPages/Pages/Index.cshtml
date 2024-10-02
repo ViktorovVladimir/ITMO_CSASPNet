@@ -2,6 +2,17 @@
 @model IndexModel
 @{
     ViewData["Title"] = "Home page";
+
+    //--.
+    @if( Model.IsCorrect )
+    {
+        <p>Name: <b>@Model.Name</b></p>
+        <p>Price: <b>@Model.Price</b></p>
+    }
+    else
+    {
+        <p>Incorrect data transmitted</p>
+    }
 }
 
 <div class="text-center">
