@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Ex03_CreatingFormToFillOutData/1.0.0": {
+        "runtime": {
+          "Ex03_CreatingFormToFillOutData.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Ex03_CreatingFormToFillOutData/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

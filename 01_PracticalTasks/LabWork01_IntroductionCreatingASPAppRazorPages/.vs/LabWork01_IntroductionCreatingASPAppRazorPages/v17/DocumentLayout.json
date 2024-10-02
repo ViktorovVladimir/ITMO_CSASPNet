@@ -1,7 +1,16 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "D:\\ITMO_CSASPNet\\01_PracticalTasks\\LabWork01_IntroductionCreatingASPAppRazorPages\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3FFB6DBA-9E82-47C4-A13F-E3E1E2C03D50}|Ex03_CreatingFormToFillOutData\\Ex03_CreatingFormToFillOutData.csproj|d:\\itmo_csaspnet\\01_practicaltasks\\labwork01_introductioncreatingaspapprazorpages\\ex03_creatingformtofilloutdata\\pages\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3FFB6DBA-9E82-47C4-A13F-E3E1E2C03D50}|Ex03_CreatingFormToFillOutData\\Ex03_CreatingFormToFillOutData.csproj|solutionrelative:ex03_creatingformtofilloutdata\\pages\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3FFB6DBA-9E82-47C4-A13F-E3E1E2C03D50}|Ex03_CreatingFormToFillOutData\\Ex03_CreatingFormToFillOutData.csproj|d:\\itmo_csaspnet\\01_practicaltasks\\labwork01_introductioncreatingaspapprazorpages\\ex03_creatingformtofilloutdata\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3FFB6DBA-9E82-47C4-A13F-E3E1E2C03D50}|Ex03_CreatingFormToFillOutData\\Ex03_CreatingFormToFillOutData.csproj|solutionrelative:ex03_creatingformtofilloutdata\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,11 +18,37 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml.cs",
+              "DocumentMoniker": "D:\\ITMO_CSASPNet\\01_PracticalTasks\\LabWork01_IntroductionCreatingASPAppRazorPages\\Ex03_CreatingFormToFillOutData\\Pages\\Index.cshtml.cs",
+              "RelativeDocumentMoniker": "Ex03_CreatingFormToFillOutData\\Pages\\Index.cshtml.cs",
+              "ToolTip": "D:\\ITMO_CSASPNet\\01_PracticalTasks\\LabWork01_IntroductionCreatingASPAppRazorPages\\Ex03_CreatingFormToFillOutData\\Pages\\Index.cshtml.cs",
+              "RelativeToolTip": "Ex03_CreatingFormToFillOutData\\Pages\\Index.cshtml.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAAwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-02T23:07:24.789Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\ITMO_CSASPNet\\01_PracticalTasks\\LabWork01_IntroductionCreatingASPAppRazorPages\\Ex03_CreatingFormToFillOutData\\Pages\\Index.cshtml",
+              "RelativeDocumentMoniker": "Ex03_CreatingFormToFillOutData\\Pages\\Index.cshtml",
+              "ToolTip": "D:\\ITMO_CSASPNet\\01_PracticalTasks\\LabWork01_IntroductionCreatingASPAppRazorPages\\Ex03_CreatingFormToFillOutData\\Pages\\Index.cshtml",
+              "RelativeToolTip": "Ex03_CreatingFormToFillOutData\\Pages\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-02T23:06:40.1Z",
+              "EditorCaption": ""
             }
           ]
         }
