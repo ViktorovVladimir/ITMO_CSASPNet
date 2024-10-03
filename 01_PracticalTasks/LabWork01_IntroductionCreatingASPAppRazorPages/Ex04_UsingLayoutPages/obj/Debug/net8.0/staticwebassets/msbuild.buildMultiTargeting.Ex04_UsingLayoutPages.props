@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Ex04_UsingLayoutPages.props" />
+</Project>

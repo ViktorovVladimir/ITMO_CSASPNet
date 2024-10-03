@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\Ex04_UsingLayoutPages.props" />
+</Project>

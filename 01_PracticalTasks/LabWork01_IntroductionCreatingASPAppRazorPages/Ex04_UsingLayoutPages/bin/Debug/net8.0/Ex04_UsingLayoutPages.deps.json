@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Ex04_UsingLayoutPages/1.0.0": {
+        "runtime": {
+          "Ex04_UsingLayoutPages.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Ex04_UsingLayoutPages/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

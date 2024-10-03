@@ -9,6 +9,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Ex02_UsingModelToRepresentD
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Ex03_CreatingFormToFillOutData", "Ex03_CreatingFormToFillOutData\Ex03_CreatingFormToFillOutData.csproj", "{3FFB6DBA-9E82-47C4-A13F-E3E1E2C03D50}"
 EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Ex04_UsingLayoutPages", "Ex04_UsingLayoutPages\Ex04_UsingLayoutPages.csproj", "{975A277B-EB02-4210-A87D-A464B9971866}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{3FFB6DBA-9E82-47C4-A13F-E3E1E2C03D50}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3FFB6DBA-9E82-47C4-A13F-E3E1E2C03D50}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3FFB6DBA-9E82-47C4-A13F-E3E1E2C03D50}.Release|Any CPU.Build.0 = Release|Any CPU
+		{975A277B-EB02-4210-A87D-A464B9971866}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{975A277B-EB02-4210-A87D-A464B9971866}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{975A277B-EB02-4210-A87D-A464B9971866}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{975A277B-EB02-4210-A87D-A464B9971866}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
