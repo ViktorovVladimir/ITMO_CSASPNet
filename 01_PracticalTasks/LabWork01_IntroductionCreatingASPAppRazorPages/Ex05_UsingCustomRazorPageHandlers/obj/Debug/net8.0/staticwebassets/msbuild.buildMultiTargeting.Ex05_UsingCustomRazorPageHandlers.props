@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Ex05_UsingCustomRazorPageHandlers.props" />
+</Project>

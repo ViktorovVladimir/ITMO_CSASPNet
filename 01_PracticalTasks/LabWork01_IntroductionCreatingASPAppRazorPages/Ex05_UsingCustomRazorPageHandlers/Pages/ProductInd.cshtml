@@ -1,0 +1,27 @@
+﻿@page "{handler?}"
+@model Ex05_UsingCustomRazorPageHandlers.Pages.ProductIndModel
+@{
+    
+  
+    
+    
+    //--.
+    <form method="post">
+        <label for="name">Product name</label><br />
+        <input type="text" name="name" /><br />
+        <label for="price">Price</label><br />
+        <input type="number" name="price" /><br /><br />
+        <input type="submit" asp-page-handler="" value="Get a discount" /><br /><br />
+        <label for="discont">Enter your discount(%)</label><br />
+        <input type="number" name="discont" /><br /><br />
+        <input type="submit" asp-page-handler="Discontt" value="Including your discount" /><br />
+        <br /><br />
+        <label for="discont">Get fix price($)</label><br />
+        <input type="submit" asp-page-handler="FixPrice" value="Click and get fixed price" /><br />
+    </form>
+
+
+    <br />
+    <br />
+    <h3>@Model.MessageRezult</h3>
+}
