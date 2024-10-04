@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Ex06_CallingMetodThroughService.props" />
+</Project>

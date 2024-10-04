@@ -3,20 +3,24 @@
   "WorkspaceRootPath": "D:\\ITMO_CSASPNet\\01_PracticalTasks\\LabWork01_IntroductionCreatingASPAppRazorPages\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{5933C5C2-760C-4854-8800-24BC77E4C616}|Ex05_UsingCustomRazorPageHandlers\\Ex05_UsingCustomRazorPageHandlers.csproj|d:\\itmo_csaspnet\\01_practicaltasks\\labwork01_introductioncreatingaspapprazorpages\\ex05_usingcustomrazorpagehandlers\\pages\\productind.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5933C5C2-760C-4854-8800-24BC77E4C616}|Ex05_UsingCustomRazorPageHandlers\\Ex05_UsingCustomRazorPageHandlers.csproj|solutionrelative:ex05_usingcustomrazorpagehandlers\\pages\\productind.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A9322C52-C971-41AF-A4CC-34A69966CB98}|Ex06_CallingMetodThroughService\\Ex06_CallingMetodThroughService.csproj|d:\\itmo_csaspnet\\01_practicaltasks\\labwork01_introductioncreatingaspapprazorpages\\ex06_callingmetodthroughservice\\pages\\productind.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A9322C52-C971-41AF-A4CC-34A69966CB98}|Ex06_CallingMetodThroughService\\Ex06_CallingMetodThroughService.csproj|solutionrelative:ex06_callingmetodthroughservice\\pages\\productind.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5933C5C2-760C-4854-8800-24BC77E4C616}|Ex05_UsingCustomRazorPageHandlers\\Ex05_UsingCustomRazorPageHandlers.csproj|d:\\itmo_csaspnet\\01_practicaltasks\\labwork01_introductioncreatingaspapprazorpages\\ex05_usingcustomrazorpagehandlers\\pages\\productind.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{5933C5C2-760C-4854-8800-24BC77E4C616}|Ex05_UsingCustomRazorPageHandlers\\Ex05_UsingCustomRazorPageHandlers.csproj|solutionrelative:ex05_usingcustomrazorpagehandlers\\pages\\productind.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{A9322C52-C971-41AF-A4CC-34A69966CB98}|Ex06_CallingMetodThroughService\\Ex06_CallingMetodThroughService.csproj|d:\\itmo_csaspnet\\01_practicaltasks\\labwork01_introductioncreatingaspapprazorpages\\ex06_callingmetodthroughservice\\pages\\productind.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A9322C52-C971-41AF-A4CC-34A69966CB98}|Ex06_CallingMetodThroughService\\Ex06_CallingMetodThroughService.csproj|solutionrelative:ex06_callingmetodthroughservice\\pages\\productind.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5933C5C2-760C-4854-8800-24BC77E4C616}|Ex05_UsingCustomRazorPageHandlers\\Ex05_UsingCustomRazorPageHandlers.csproj|d:\\itmo_csaspnet\\01_practicaltasks\\labwork01_introductioncreatingaspapprazorpages\\ex05_usingcustomrazorpagehandlers\\pages\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5933C5C2-760C-4854-8800-24BC77E4C616}|Ex05_UsingCustomRazorPageHandlers\\Ex05_UsingCustomRazorPageHandlers.csproj|solutionrelative:ex05_usingcustomrazorpagehandlers\\pages\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A9322C52-C971-41AF-A4CC-34A69966CB98}|Ex06_CallingMetodThroughService\\Ex06_CallingMetodThroughService.csproj|d:\\itmo_csaspnet\\01_practicaltasks\\labwork01_introductioncreatingaspapprazorpages\\ex06_callingmetodthroughservice\\models\\operationprice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A9322C52-C971-41AF-A4CC-34A69966CB98}|Ex06_CallingMetodThroughService\\Ex06_CallingMetodThroughService.csproj|solutionrelative:ex06_callingmetodthroughservice\\models\\operationprice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5933C5C2-760C-4854-8800-24BC77E4C616}|Ex05_UsingCustomRazorPageHandlers\\Ex05_UsingCustomRazorPageHandlers.csproj|d:\\itmo_csaspnet\\01_practicaltasks\\labwork01_introductioncreatingaspapprazorpages\\ex05_usingcustomrazorpagehandlers\\models\\productclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5933C5C2-760C-4854-8800-24BC77E4C616}|Ex05_UsingCustomRazorPageHandlers\\Ex05_UsingCustomRazorPageHandlers.csproj|solutionrelative:ex05_usingcustomrazorpagehandlers\\models\\productclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A9322C52-C971-41AF-A4CC-34A69966CB98}|Ex06_CallingMetodThroughService\\Ex06_CallingMetodThroughService.csproj|d:\\itmo_csaspnet\\01_practicaltasks\\labwork01_introductioncreatingaspapprazorpages\\ex06_callingmetodthroughservice\\models\\productclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A9322C52-C971-41AF-A4CC-34A69966CB98}|Ex06_CallingMetodThroughService\\Ex06_CallingMetodThroughService.csproj|solutionrelative:ex06_callingmetodthroughservice\\models\\productclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9322C52-C971-41AF-A4CC-34A69966CB98}|Ex06_CallingMetodThroughService\\Ex06_CallingMetodThroughService.csproj|d:\\itmo_csaspnet\\01_practicaltasks\\labwork01_introductioncreatingaspapprazorpages\\ex06_callingmetodthroughservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A9322C52-C971-41AF-A4CC-34A69966CB98}|Ex06_CallingMetodThroughService\\Ex06_CallingMetodThroughService.csproj|solutionrelative:ex06_callingmetodthroughservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -36,52 +40,65 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "ProductInd.cshtml.cs",
-              "DocumentMoniker": "D:\\ITMO_CSASPNet\\01_PracticalTasks\\LabWork01_IntroductionCreatingASPAppRazorPages\\Ex05_UsingCustomRazorPageHandlers\\Pages\\ProductInd.cshtml.cs",
-              "RelativeDocumentMoniker": "Ex05_UsingCustomRazorPageHandlers\\Pages\\ProductInd.cshtml.cs",
-              "ToolTip": "D:\\ITMO_CSASPNet\\01_PracticalTasks\\LabWork01_IntroductionCreatingASPAppRazorPages\\Ex05_UsingCustomRazorPageHandlers\\Pages\\ProductInd.cshtml.cs",
-              "RelativeToolTip": "Ex05_UsingCustomRazorPageHandlers\\Pages\\ProductInd.cshtml.cs",
-              "ViewState": "AQIAAB8AAAAAAAAAAAAkwB0AAAANAAAA",
+              "DocumentMoniker": "D:\\ITMO_CSASPNet\\01_PracticalTasks\\LabWork01_IntroductionCreatingASPAppRazorPages\\Ex06_CallingMetodThroughService\\Pages\\ProductInd.cshtml.cs",
+              "RelativeDocumentMoniker": "Ex06_CallingMetodThroughService\\Pages\\ProductInd.cshtml.cs",
+              "ToolTip": "D:\\ITMO_CSASPNet\\01_PracticalTasks\\LabWork01_IntroductionCreatingASPAppRazorPages\\Ex06_CallingMetodThroughService\\Pages\\ProductInd.cshtml.cs",
+              "RelativeToolTip": "Ex06_CallingMetodThroughService\\Pages\\ProductInd.cshtml.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAAA5wCUAAAAxAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-03T22:17:51.638Z",
+              "WhenOpened": "2024-10-04T08:44:03.504Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "ProductInd.cshtml",
-              "DocumentMoniker": "D:\\ITMO_CSASPNet\\01_PracticalTasks\\LabWork01_IntroductionCreatingASPAppRazorPages\\Ex05_UsingCustomRazorPageHandlers\\Pages\\ProductInd.cshtml",
-              "RelativeDocumentMoniker": "Ex05_UsingCustomRazorPageHandlers\\Pages\\ProductInd.cshtml",
-              "ToolTip": "D:\\ITMO_CSASPNet\\01_PracticalTasks\\LabWork01_IntroductionCreatingASPAppRazorPages\\Ex05_UsingCustomRazorPageHandlers\\Pages\\ProductInd.cshtml",
-              "RelativeToolTip": "Ex05_UsingCustomRazorPageHandlers\\Pages\\ProductInd.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAAAAAA",
+              "DocumentMoniker": "D:\\ITMO_CSASPNet\\01_PracticalTasks\\LabWork01_IntroductionCreatingASPAppRazorPages\\Ex06_CallingMetodThroughService\\Pages\\ProductInd.cshtml",
+              "RelativeDocumentMoniker": "Ex06_CallingMetodThroughService\\Pages\\ProductInd.cshtml",
+              "ToolTip": "D:\\ITMO_CSASPNet\\01_PracticalTasks\\LabWork01_IntroductionCreatingASPAppRazorPages\\Ex06_CallingMetodThroughService\\Pages\\ProductInd.cshtml",
+              "RelativeToolTip": "Ex06_CallingMetodThroughService\\Pages\\ProductInd.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAABDAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-10-03T22:17:14.677Z",
+              "WhenOpened": "2024-10-04T08:43:55.829Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "OperationPrice.cs",
+              "DocumentMoniker": "D:\\ITMO_CSASPNet\\01_PracticalTasks\\LabWork01_IntroductionCreatingASPAppRazorPages\\Ex06_CallingMetodThroughService\\Models\\OperationPrice.cs",
+              "RelativeDocumentMoniker": "Ex06_CallingMetodThroughService\\Models\\OperationPrice.cs",
+              "ToolTip": "D:\\ITMO_CSASPNet\\01_PracticalTasks\\LabWork01_IntroductionCreatingASPAppRazorPages\\Ex06_CallingMetodThroughService\\Models\\OperationPrice.cs",
+              "RelativeToolTip": "Ex06_CallingMetodThroughService\\Models\\OperationPrice.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-04T08:34:34.44Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
               "Title": "ProductClass.cs",
-              "DocumentMoniker": "D:\\ITMO_CSASPNet\\01_PracticalTasks\\LabWork01_IntroductionCreatingASPAppRazorPages\\Ex05_UsingCustomRazorPageHandlers\\Models\\ProductClass.cs",
-              "RelativeDocumentMoniker": "Ex05_UsingCustomRazorPageHandlers\\Models\\ProductClass.cs",
-              "ToolTip": "D:\\ITMO_CSASPNet\\01_PracticalTasks\\LabWork01_IntroductionCreatingASPAppRazorPages\\Ex05_UsingCustomRazorPageHandlers\\Models\\ProductClass.cs",
-              "RelativeToolTip": "Ex05_UsingCustomRazorPageHandlers\\Models\\ProductClass.cs",
+              "DocumentMoniker": "D:\\ITMO_CSASPNet\\01_PracticalTasks\\LabWork01_IntroductionCreatingASPAppRazorPages\\Ex06_CallingMetodThroughService\\Models\\ProductClass.cs",
+              "RelativeDocumentMoniker": "Ex06_CallingMetodThroughService\\Models\\ProductClass.cs",
+              "ToolTip": "D:\\ITMO_CSASPNet\\01_PracticalTasks\\LabWork01_IntroductionCreatingASPAppRazorPages\\Ex06_CallingMetodThroughService\\Models\\ProductClass.cs",
+              "RelativeToolTip": "Ex06_CallingMetodThroughService\\Models\\ProductClass.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAIAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-03T22:15:37.027Z",
+              "WhenOpened": "2024-10-04T08:33:46.721Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Index.cshtml.cs",
-              "DocumentMoniker": "D:\\ITMO_CSASPNet\\01_PracticalTasks\\LabWork01_IntroductionCreatingASPAppRazorPages\\Ex05_UsingCustomRazorPageHandlers\\Pages\\Index.cshtml.cs",
-              "RelativeDocumentMoniker": "Ex05_UsingCustomRazorPageHandlers\\Pages\\Index.cshtml.cs",
-              "ToolTip": "D:\\ITMO_CSASPNet\\01_PracticalTasks\\LabWork01_IntroductionCreatingASPAppRazorPages\\Ex05_UsingCustomRazorPageHandlers\\Pages\\Index.cshtml.cs",
-              "RelativeToolTip": "Ex05_UsingCustomRazorPageHandlers\\Pages\\Index.cshtml.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\ITMO_CSASPNet\\01_PracticalTasks\\LabWork01_IntroductionCreatingASPAppRazorPages\\Ex06_CallingMetodThroughService\\Program.cs",
+              "RelativeDocumentMoniker": "Ex06_CallingMetodThroughService\\Program.cs",
+              "ToolTip": "D:\\ITMO_CSASPNet\\01_PracticalTasks\\LabWork01_IntroductionCreatingASPAppRazorPages\\Ex06_CallingMetodThroughService\\Program.cs",
+              "RelativeToolTip": "Ex06_CallingMetodThroughService\\Program.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABkAAAAvAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-03T22:15:32.902Z",
+              "WhenOpened": "2024-10-04T08:27:52.455Z",
               "EditorCaption": ""
             }
           ]
