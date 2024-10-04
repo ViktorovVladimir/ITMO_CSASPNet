@@ -22,7 +22,5 @@ namespace Ex05_UsingCustomRazorPageHandlers.Pages
         {
          
         }
-        
-       
     }
 }

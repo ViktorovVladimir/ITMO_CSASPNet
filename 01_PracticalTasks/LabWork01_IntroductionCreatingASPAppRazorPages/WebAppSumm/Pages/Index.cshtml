@@ -1,0 +1,28 @@
+﻿@page
+@model IndexModel
+@{
+    ViewData["Title"] = "Home page";
+}
+
+
+
+<h2>@Model.Message</h2>
+<form method="post">
+    <input type="number" name="p1" />
+    <input type="number" name="p2" />
+    <input type="submit" value="Получить сумму" />
+</form>
+<h3>@Model.MessageRezult</h3>
+
+@if (this.Request.Method == "post")
+{
+    @if (Model.IsCorrect)
+    {
+        <p>Первое слагаемое: <b>@Model.FirstOperand</b></p>
+        <p>Второе слагаемое: <b>@Model.SecondOperand</b></p>
+    }
+    else
+    {
+        <p>Переданы некорректные данные</p>
+    }
+}
