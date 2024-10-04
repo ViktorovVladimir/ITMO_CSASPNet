@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Ex01_CreateProjectUsingRazorPages")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+00b82799efa4d077657929b23a7cbdde9b2adaca")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8b8ad07fdcdce12e830d370ab8046d874a7bf6e0")]
 [assembly: System.Reflection.AssemblyProductAttribute("Ex01_CreateProjectUsingRazorPages")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Ex01_CreateProjectUsingRazorPages")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

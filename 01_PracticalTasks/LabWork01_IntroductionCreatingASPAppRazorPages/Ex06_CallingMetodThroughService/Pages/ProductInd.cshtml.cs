@@ -10,7 +10,7 @@ namespace Ex06_CallingMetodThroughService.Pages
         private readonly OperationPrice _servicePrice;
         
         //--.
-        public ProductClass Product { get; set; } = new ProductClass();
+        public ProductClass Product { get; set; }
         public string? MessageRezult { get; private set; }
 
         //--.
@@ -30,7 +30,7 @@ namespace Ex06_CallingMetodThroughService.Pages
         public void OnPost(string name, decimal? price)
         {
             //--.
-            //Product = new ProductClass();
+            Product = new ProductClass();
 
             //--.
             if( price == null || price < 0 || string.IsNullOrEmpty(name) ) 
@@ -56,7 +56,7 @@ namespace Ex06_CallingMetodThroughService.Pages
         public void OnPostDiscontt( string name, decimal? price, double discont ) 
         {
             //--.
-            //Product = new ProductClass();
+            Product = new ProductClass();
             //--.
             //var result = price * (decimal?)discont / 100;
             var result = _servicePrice.CalcPriceDiscount( price, discont );
@@ -72,7 +72,7 @@ namespace Ex06_CallingMetodThroughService.Pages
         public void OnPostFixPrice(string name, decimal? price, double discont)
         {
             //--.
-            //Product = new ProductClass();
+            Product = new ProductClass();
 
 
             //var result = price * (decimal?)discont / 100;

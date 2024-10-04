@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Ex02_UsingModelToRepresentData")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+00b82799efa4d077657929b23a7cbdde9b2adaca")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8b8ad07fdcdce12e830d370ab8046d874a7bf6e0")]
 [assembly: System.Reflection.AssemblyProductAttribute("Ex02_UsingModelToRepresentData")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Ex02_UsingModelToRepresentData")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
