@@ -1,0 +1,116 @@
+﻿@page "{handler?}"
+@model RazorTestModel
+@{
+}
+<p>Неявные Razor-выражения начинаются с @@ :</p>
+@*Для экранирования символа @ в Razor разметке используйтся второй символ @*@
+<p>Текущая дата @DateTime.Now</p>
+<p>Сейчас високосный год? @DateTime.IsLeapYear(DateTime.Today.Year)</p>
+
+<p>Явные Razor выражения состоят из @@ символа с сбалансированной круглой скобкой</p>
+<p>Ровно неделю назад: @(DateTime.Now - TimeSpan.FromDays(7))</p>
+
+<p>Явные выражения позволяют объединять результат своего выполнения с дополнительным текстом:</p>
+
+<p>Блоки кода и выражения в представлении используют общую область:</p>
+@{
+    var mes = "Первая строка";
+    int value = 8;
+}
+<p>@mes</p>
+@{
+    mes += " и Вторая строка";
+}
+<p>@mes</p>
+<p>Условные выражения if, else if, switch</p>
+@if (value % 2 == 0)
+{
+    <p>The value was even.</p>
+}//Для else и else if символ не требуется:
+else if (value >= 1000)
+{
+    <p>The value is large.</p>
+}
+else
+{
+    <p>The value is odd and small.</p>
+}
+
+@switch (value)
+{
+    case 1:
+        <p>The value is 1!</p>
+        break;
+    case 1337:
+        <p>Your number is 1000!</p>
+        break;
+    default:
+        <p>Your number wasn't 1 or 1000.</p>
+        break;
+}
+<p>Циклы for, foreach, while, do while</p>
+<p>for</p>
+@for (var i1 = 1; i1 < 7; i1++)
+{
+    <p>@i1</p>
+}
+<p>foreach</p>
+@{ int[] mas = new int[] { 1, 2, 3, 4, 5, 6 }; }
+@foreach (var it in mas)
+{
+    <p>@it</p>
+}
+
+<p>while</p>
+@{ var i2 = 1; }
+@while (i2 < 7)
+{
+    <p>@i2</p>
+    i2++;
+}
+<p>do while</p>
+@{ var i3 = 1; }
+@do
+{
+    <p>@i3</p>
+    i3++;
+} while (i3 < 7);
+
+<p>Директива @@functions  позволяет добавлять элементы C# (поля, свойства и методы)</p>
+@functions {
+public string GetHello()
+{
+    return "Hello";
+}
+
+}
+<div>Метод: @GetHello()</div>
+
+
+
+<h3>Список пользователей</h3>
+<table class="table">
+    <tr><td>Name</td><td>Age</td></tr>
+    @foreach (Person person in Model.DisplayedPeople)
+    {
+        <tr>
+            <td>@person.Name</td>
+            <td>@person.Age</td>
+        </tr>
+    }
+</table>
+
+<h3>Список пользователей_Get</h3>
+<form method="get">
+    <input type="text" name="name" />
+    <input type="number" name="age" />
+    <input type="submit" asp-page-handler="ByName" value="По имени" />
+    <input type="submit" asp-page-handler="ByAge" value="По возрасту" />
+</form>
+
+<h3>Список пользователей_Post</h3>
+<form method="POST">
+    <input type="number" name="age" />
+    <input type="submit" asp-page-handler="GreaterThan" value="Старше" />
+    <input type="submit" asp-page-handler="LessThan" value="Младше" />
+</form>

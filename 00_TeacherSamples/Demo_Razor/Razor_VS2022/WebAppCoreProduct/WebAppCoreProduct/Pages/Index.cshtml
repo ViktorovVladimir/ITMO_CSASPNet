@@ -1,0 +1,30 @@
+﻿@page
+@model IndexModel
+@*<form method="post"> 
+    <label for="name">Название товара</label><br />
+    <input type="text" name="name" /><br />
+    <label for="price">Цена</label><br />
+    <input type="number" name="price" /><br /><br />
+    <input type="submit" value="Получить скидку" /><br />
+</form>
+<h3>@Model.MessageRezult</h3>*@
+@*@{
+    @if (Model.IsCorrect)
+    {
+        //<p>Name: <b>@Model.Name</b></p> // 1 упражнение
+        //<p>Price: <b>@Model.Price</b></p>
+        <p>Name: <b>@Model.Product.Name</b></p>
+        <p>Price: <b>@Model.Product.Price</b></p>
+
+    }
+    else
+    {
+        <p>Переданы некорректные данные</p>
+    }
+
+}*@
+@{
+    Layout = "_Layout";
+}
+
+<h3>Стартовая страница</h3>
