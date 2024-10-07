@@ -16,5 +16,7 @@ namespace RazorPagesMovie.Models
         [Column(TypeName = "decimal(18,3)")]
         ///[RegularExpression(@"^\d+[\,\.]\d+$", ErrorMessage="Error")]
         public decimal Price { get; set;}
+        //--.
+        public string Rating { get; set; }
     }
 }
