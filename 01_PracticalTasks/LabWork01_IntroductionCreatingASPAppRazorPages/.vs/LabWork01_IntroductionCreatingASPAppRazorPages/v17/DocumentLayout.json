@@ -3,24 +3,24 @@
   "WorkspaceRootPath": "D:\\ITMO_CSASPNet\\01_PracticalTasks\\LabWork01_IntroductionCreatingASPAppRazorPages\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A9322C52-C971-41AF-A4CC-34A69966CB98}|Ex06_CallingMetodThroughService\\Ex06_CallingMetodThroughService.csproj|d:\\itmo_csaspnet\\01_practicaltasks\\labwork01_introductioncreatingaspapprazorpages\\ex06_callingmetodthroughservice\\pages\\productind.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A9322C52-C971-41AF-A4CC-34A69966CB98}|Ex06_CallingMetodThroughService\\Ex06_CallingMetodThroughService.csproj|solutionrelative:ex06_callingmetodthroughservice\\pages\\productind.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{61B35DF6-E8D5-47CF-83EA-73DD76CF8CC2}|WebAppSumm\\WebAppSumm.csproj|d:\\itmo_csaspnet\\01_practicaltasks\\labwork01_introductioncreatingaspapprazorpages\\webappsumm\\pages\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{61B35DF6-E8D5-47CF-83EA-73DD76CF8CC2}|WebAppSumm\\WebAppSumm.csproj|solutionrelative:webappsumm\\pages\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A9322C52-C971-41AF-A4CC-34A69966CB98}|Ex06_CallingMetodThroughService\\Ex06_CallingMetodThroughService.csproj|d:\\itmo_csaspnet\\01_practicaltasks\\labwork01_introductioncreatingaspapprazorpages\\ex06_callingmetodthroughservice\\models\\operationprice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A9322C52-C971-41AF-A4CC-34A69966CB98}|Ex06_CallingMetodThroughService\\Ex06_CallingMetodThroughService.csproj|solutionrelative:ex06_callingmetodthroughservice\\models\\operationprice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{61B35DF6-E8D5-47CF-83EA-73DD76CF8CC2}|WebAppSumm\\WebAppSumm.csproj|d:\\itmo_csaspnet\\01_practicaltasks\\labwork01_introductioncreatingaspapprazorpages\\webappsumm\\models\\operationclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{61B35DF6-E8D5-47CF-83EA-73DD76CF8CC2}|WebAppSumm\\WebAppSumm.csproj|solutionrelative:webappsumm\\models\\operationclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A9322C52-C971-41AF-A4CC-34A69966CB98}|Ex06_CallingMetodThroughService\\Ex06_CallingMetodThroughService.csproj|d:\\itmo_csaspnet\\01_practicaltasks\\labwork01_introductioncreatingaspapprazorpages\\ex06_callingmetodthroughservice\\pages\\productind.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{A9322C52-C971-41AF-A4CC-34A69966CB98}|Ex06_CallingMetodThroughService\\Ex06_CallingMetodThroughService.csproj|solutionrelative:ex06_callingmetodthroughservice\\pages\\productind.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{61B35DF6-E8D5-47CF-83EA-73DD76CF8CC2}|WebAppSumm\\WebAppSumm.csproj|d:\\itmo_csaspnet\\01_practicaltasks\\labwork01_introductioncreatingaspapprazorpages\\webappsumm\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{61B35DF6-E8D5-47CF-83EA-73DD76CF8CC2}|WebAppSumm\\WebAppSumm.csproj|solutionrelative:webappsumm\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A9322C52-C971-41AF-A4CC-34A69966CB98}|Ex06_CallingMetodThroughService\\Ex06_CallingMetodThroughService.csproj|d:\\itmo_csaspnet\\01_practicaltasks\\labwork01_introductioncreatingaspapprazorpages\\ex06_callingmetodthroughservice\\models\\productclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A9322C52-C971-41AF-A4CC-34A69966CB98}|Ex06_CallingMetodThroughService\\Ex06_CallingMetodThroughService.csproj|solutionrelative:ex06_callingmetodthroughservice\\models\\productclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{61B35DF6-E8D5-47CF-83EA-73DD76CF8CC2}|WebAppSumm\\WebAppSumm.csproj|d:\\itmo_csaspnet\\01_practicaltasks\\labwork01_introductioncreatingaspapprazorpages\\webappsumm\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{61B35DF6-E8D5-47CF-83EA-73DD76CF8CC2}|WebAppSumm\\WebAppSumm.csproj|solutionrelative:webappsumm\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A9322C52-C971-41AF-A4CC-34A69966CB98}|Ex06_CallingMetodThroughService\\Ex06_CallingMetodThroughService.csproj|d:\\itmo_csaspnet\\01_practicaltasks\\labwork01_introductioncreatingaspapprazorpages\\ex06_callingmetodthroughservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A9322C52-C971-41AF-A4CC-34A69966CB98}|Ex06_CallingMetodThroughService\\Ex06_CallingMetodThroughService.csproj|solutionrelative:ex06_callingmetodthroughservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{61B35DF6-E8D5-47CF-83EA-73DD76CF8CC2}|WebAppSumm\\WebAppSumm.csproj|d:\\itmo_csaspnet\\01_practicaltasks\\labwork01_introductioncreatingaspapprazorpages\\webappsumm\\webappsumm.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{61B35DF6-E8D5-47CF-83EA-73DD76CF8CC2}|WebAppSumm\\WebAppSumm.csproj|solutionrelative:webappsumm\\webappsumm.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,7 +30,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Bookmark",
@@ -38,67 +38,68 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "ProductInd.cshtml.cs",
-              "DocumentMoniker": "D:\\ITMO_CSASPNet\\01_PracticalTasks\\LabWork01_IntroductionCreatingASPAppRazorPages\\Ex06_CallingMetodThroughService\\Pages\\ProductInd.cshtml.cs",
-              "RelativeDocumentMoniker": "Ex06_CallingMetodThroughService\\Pages\\ProductInd.cshtml.cs",
-              "ToolTip": "D:\\ITMO_CSASPNet\\01_PracticalTasks\\LabWork01_IntroductionCreatingASPAppRazorPages\\Ex06_CallingMetodThroughService\\Pages\\ProductInd.cshtml.cs",
-              "RelativeToolTip": "Ex06_CallingMetodThroughService\\Pages\\ProductInd.cshtml.cs",
-              "ViewState": "AQIAABwAAAAAAAAAAAAkwCMAAAAMAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-04T08:44:03.504Z",
+              "DocumentIndex": 4,
+              "Title": "WebAppSumm",
+              "DocumentMoniker": "D:\\ITMO_CSASPNet\\01_PracticalTasks\\LabWork01_IntroductionCreatingASPAppRazorPages\\WebAppSumm\\WebAppSumm.csproj",
+              "RelativeDocumentMoniker": "WebAppSumm\\WebAppSumm.csproj",
+              "ToolTip": "D:\\ITMO_CSASPNet\\01_PracticalTasks\\LabWork01_IntroductionCreatingASPAppRazorPages\\WebAppSumm\\WebAppSumm.csproj",
+              "RelativeToolTip": "WebAppSumm\\WebAppSumm.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-10-07T17:38:43.702Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "ProductInd.cshtml",
-              "DocumentMoniker": "D:\\ITMO_CSASPNet\\01_PracticalTasks\\LabWork01_IntroductionCreatingASPAppRazorPages\\Ex06_CallingMetodThroughService\\Pages\\ProductInd.cshtml",
-              "RelativeDocumentMoniker": "Ex06_CallingMetodThroughService\\Pages\\ProductInd.cshtml",
-              "ToolTip": "D:\\ITMO_CSASPNet\\01_PracticalTasks\\LabWork01_IntroductionCreatingASPAppRazorPages\\Ex06_CallingMetodThroughService\\Pages\\ProductInd.cshtml",
-              "RelativeToolTip": "Ex06_CallingMetodThroughService\\Pages\\ProductInd.cshtml",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAwAAAAZAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-10-04T08:43:55.829Z",
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\ITMO_CSASPNet\\01_PracticalTasks\\LabWork01_IntroductionCreatingASPAppRazorPages\\WebAppSumm\\Program.cs",
+              "RelativeDocumentMoniker": "WebAppSumm\\Program.cs",
+              "ToolTip": "D:\\ITMO_CSASPNet\\01_PracticalTasks\\LabWork01_IntroductionCreatingASPAppRazorPages\\WebAppSumm\\Program.cs",
+              "RelativeToolTip": "WebAppSumm\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAA5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-07T08:34:35.996Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "OperationPrice.cs",
-              "DocumentMoniker": "D:\\ITMO_CSASPNet\\01_PracticalTasks\\LabWork01_IntroductionCreatingASPAppRazorPages\\Ex06_CallingMetodThroughService\\Models\\OperationPrice.cs",
-              "RelativeDocumentMoniker": "Ex06_CallingMetodThroughService\\Models\\OperationPrice.cs",
-              "ToolTip": "D:\\ITMO_CSASPNet\\01_PracticalTasks\\LabWork01_IntroductionCreatingASPAppRazorPages\\Ex06_CallingMetodThroughService\\Models\\OperationPrice.cs",
-              "RelativeToolTip": "Ex06_CallingMetodThroughService\\Models\\OperationPrice.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAdAAAA",
+              "Title": "OperationClass.cs",
+              "DocumentMoniker": "D:\\ITMO_CSASPNet\\01_PracticalTasks\\LabWork01_IntroductionCreatingASPAppRazorPages\\WebAppSumm\\Models\\OperationClass.cs",
+              "RelativeDocumentMoniker": "WebAppSumm\\Models\\OperationClass.cs",
+              "ToolTip": "D:\\ITMO_CSASPNet\\01_PracticalTasks\\LabWork01_IntroductionCreatingASPAppRazorPages\\WebAppSumm\\Models\\OperationClass.cs",
+              "RelativeToolTip": "WebAppSumm\\Models\\OperationClass.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABkAAAA3AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-04T08:34:34.44Z",
+              "WhenOpened": "2024-10-07T08:31:26.547Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml.cs",
+              "DocumentMoniker": "D:\\ITMO_CSASPNet\\01_PracticalTasks\\LabWork01_IntroductionCreatingASPAppRazorPages\\WebAppSumm\\Pages\\Index.cshtml.cs",
+              "RelativeDocumentMoniker": "WebAppSumm\\Pages\\Index.cshtml.cs",
+              "ToolTip": "D:\\ITMO_CSASPNet\\01_PracticalTasks\\LabWork01_IntroductionCreatingASPAppRazorPages\\WebAppSumm\\Pages\\Index.cshtml.cs",
+              "RelativeToolTip": "WebAppSumm\\Pages\\Index.cshtml.cs",
+              "ViewState": "AQIAACIAAAAAAAAAAAAwwDYAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-07T08:31:05.992Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "ProductClass.cs",
-              "DocumentMoniker": "D:\\ITMO_CSASPNet\\01_PracticalTasks\\LabWork01_IntroductionCreatingASPAppRazorPages\\Ex06_CallingMetodThroughService\\Models\\ProductClass.cs",
-              "RelativeDocumentMoniker": "Ex06_CallingMetodThroughService\\Models\\ProductClass.cs",
-              "ToolTip": "D:\\ITMO_CSASPNet\\01_PracticalTasks\\LabWork01_IntroductionCreatingASPAppRazorPages\\Ex06_CallingMetodThroughService\\Models\\ProductClass.cs",
-              "RelativeToolTip": "Ex06_CallingMetodThroughService\\Models\\ProductClass.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-04T08:33:46.721Z",
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\ITMO_CSASPNet\\01_PracticalTasks\\LabWork01_IntroductionCreatingASPAppRazorPages\\WebAppSumm\\Pages\\Index.cshtml",
+              "RelativeDocumentMoniker": "WebAppSumm\\Pages\\Index.cshtml",
+              "ToolTip": "D:\\ITMO_CSASPNet\\01_PracticalTasks\\LabWork01_IntroductionCreatingASPAppRazorPages\\WebAppSumm\\Pages\\Index.cshtml",
+              "RelativeToolTip": "WebAppSumm\\Pages\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-07T08:30:59.818Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\ITMO_CSASPNet\\01_PracticalTasks\\LabWork01_IntroductionCreatingASPAppRazorPages\\Ex06_CallingMetodThroughService\\Program.cs",
-              "RelativeDocumentMoniker": "Ex06_CallingMetodThroughService\\Program.cs",
-              "ToolTip": "D:\\ITMO_CSASPNet\\01_PracticalTasks\\LabWork01_IntroductionCreatingASPAppRazorPages\\Ex06_CallingMetodThroughService\\Program.cs",
-              "RelativeToolTip": "Ex06_CallingMetodThroughService\\Program.cs",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAAABkAAAAdAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-04T08:27:52.455Z"
             }
           ]
         }

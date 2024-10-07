@@ -1,3 +1,4 @@
+using Microsoft.Extensions.DependencyInjection;
 using System.Reflection;
 
 var builder = WebApplication.CreateBuilder(args);
@@ -5,6 +6,8 @@ var builder = WebApplication.CreateBuilder(args);
 // Add services to the container.
 builder.Services.AddRazorPages();
 builder.Services.AddSingleton<WebAppSumm.Models.IOperator, WebAppSumm.Models.Operation48>();
+//builder.Services.AddSingleton<WebAppSumm.Models.IOperator, WebAppSumm.Models.Operation>();
+///builder.Services.AddSingleton<WebAppSumm.Models.IOperator, WebAppSumm.Models.Operation, WebAppSumm.Models.Operation48>();
 
 var app = builder.Build();
 
