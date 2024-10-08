@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Ex02_PassingParametersToController.props" />
+</Project>

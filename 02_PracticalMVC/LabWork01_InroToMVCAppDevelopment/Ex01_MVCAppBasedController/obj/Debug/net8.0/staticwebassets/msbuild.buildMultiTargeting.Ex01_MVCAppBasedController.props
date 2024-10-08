@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Ex01_MVCAppBasedController.props" />
+</Project>

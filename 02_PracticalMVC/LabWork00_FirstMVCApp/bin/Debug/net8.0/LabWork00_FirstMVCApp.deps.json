@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "LabWork00_FirstMVCApp/1.0.0": {
+        "runtime": {
+          "LabWork00_FirstMVCApp.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "LabWork00_FirstMVCApp/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
