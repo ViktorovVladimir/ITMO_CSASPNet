@@ -1,0 +1,46 @@
+﻿body {
+    background-color: lightblue;
+    font-family: "Trebuchet MS", Verdana, Helvetica, Sans-Serif;
+    padding: 20px;
+    border: solid medium green;
+    font-size: 15pt
+}
+
+
+.logo{
+    height:50px;
+    width:50px;
+}
+
+.dummy {
+    text-align: center;
+    height: 50px;
+    width: 50px;
+}
+
+h1 {
+    color: white;
+    text-align: center;
+    margin: 0px;
+    padding: 2px 0;
+    font-size: 50px;
+    font-weight: bold;
+}
+
+h2 {
+    color: palevioletred;
+    text-align: center;
+}
+
+
+p {
+    font-family: verdana;
+    font-size: 20px;
+}
+
+.bbutton {
+    
+    margin-top: 15px;
+    padding: 5px;
+    width: 136px;
+}

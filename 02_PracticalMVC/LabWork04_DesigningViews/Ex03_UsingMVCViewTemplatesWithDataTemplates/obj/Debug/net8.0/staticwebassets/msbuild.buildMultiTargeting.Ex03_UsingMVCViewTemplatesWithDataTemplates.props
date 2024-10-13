@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Ex03_UsingMVCViewTemplatesWithDataTemplates.props" />
+</Project>

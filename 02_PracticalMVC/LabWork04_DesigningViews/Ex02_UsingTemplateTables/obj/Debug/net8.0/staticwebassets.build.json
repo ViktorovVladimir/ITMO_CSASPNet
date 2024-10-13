@@ -1,0 +1,58 @@
+{
+  "Version": 1,
+  "Hash": "KkCvsFO3RjVgQlb7laCvx+wUynaXCkvMIZLzKvOCleU=",
+  "Source": "Ex02_UsingTemplateTables",
+  "BasePath": "_content/Ex02_UsingTemplateTables",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "Ex02_UsingTemplateTables\\wwwroot",
+      "Source": "Ex02_UsingTemplateTables",
+      "ContentRoot": "D:\\ITMO_CSASPNet\\02_PracticalMVC\\LabWork04_DesigningViews\\Ex02_UsingTemplateTables\\wwwroot\\",
+      "BasePath": "_content/Ex02_UsingTemplateTables",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "D:\\ITMO_CSASPNet\\02_PracticalMVC\\LabWork04_DesigningViews\\Ex02_UsingTemplateTables\\wwwroot\\css\\Site.css",
+      "SourceId": "Ex02_UsingTemplateTables",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\ITMO_CSASPNet\\02_PracticalMVC\\LabWork04_DesigningViews\\Ex02_UsingTemplateTables\\wwwroot\\",
+      "BasePath": "_content/Ex02_UsingTemplateTables",
+      "RelativePath": "css/Site.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\Site.css"
+    },
+    {
+      "Identity": "D:\\ITMO_CSASPNet\\02_PracticalMVC\\LabWork04_DesigningViews\\Ex02_UsingTemplateTables\\wwwroot\\images\\logo.png",
+      "SourceId": "Ex02_UsingTemplateTables",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\ITMO_CSASPNet\\02_PracticalMVC\\LabWork04_DesigningViews\\Ex02_UsingTemplateTables\\wwwroot\\",
+      "BasePath": "_content/Ex02_UsingTemplateTables",
+      "RelativePath": "images/logo.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\logo.png"
+    }
+  ]
+}

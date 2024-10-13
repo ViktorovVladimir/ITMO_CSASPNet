@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\Ex01_CreatingDataEntryFormUsingHTMLHelpers.props" />
+</Project>

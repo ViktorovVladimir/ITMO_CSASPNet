@@ -1,0 +1,16 @@
+﻿@model Ex01_ImplementingRepositoryModel.Models.PersonRepositoryClass
+
+<div> 
+    <h3> List of participants </h3>
+        <p>Persons in total @ViewBag.Count</p>
+
+            <ul>
+                @foreach (var c in ViewBag.pers)
+                {
+                    <li>@c.ToString()</li>
+                }
+            </ul>
+    
+         <p>@Html.ActionLink("To home site", "Index")</p>
+
+</div>

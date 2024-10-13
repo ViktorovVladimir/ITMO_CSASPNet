@@ -1,0 +1,12 @@
+﻿@{
+    Layout = "~/Views/_BasicLayout.cshtml";
+    ViewBag.Title = "Home layout";
+}
+
+
+<div>
+    @ViewBag.Greeting, -= thank you for coming and =- @ViewData["Mes"]
+    <p>@Html.ActionLink("Enter your details", "InputData")</p>
+    <p>@Html.ActionLink("Look who's already here", "OutputData")</p>
+</div>
+

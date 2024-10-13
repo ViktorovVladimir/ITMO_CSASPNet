@@ -1,0 +1,160 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\ITMO_CSASPNet\\02_PracticalMVC\\LabWork04_DesigningViews\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DCF6DE0E-20FB-440F-B271-3C2FB70226DE}|Ex03_UsingMVCViewTemplatesWithDataTemplates\\Ex03_UsingMVCViewTemplatesWithDataTemplates.csproj|d:\\itmo_csaspnet\\02_practicalmvc\\labwork04_designingviews\\ex03_usingmvcviewtemplateswithdatatemplates\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DCF6DE0E-20FB-440F-B271-3C2FB70226DE}|Ex03_UsingMVCViewTemplatesWithDataTemplates\\Ex03_UsingMVCViewTemplatesWithDataTemplates.csproj|solutionrelative:ex03_usingmvcviewtemplateswithdatatemplates\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DCF6DE0E-20FB-440F-B271-3C2FB70226DE}|Ex03_UsingMVCViewTemplatesWithDataTemplates\\Ex03_UsingMVCViewTemplatesWithDataTemplates.csproj|d:\\itmo_csaspnet\\02_practicalmvc\\labwork04_designingviews\\ex03_usingmvcviewtemplateswithdatatemplates\\controllers\\personcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DCF6DE0E-20FB-440F-B271-3C2FB70226DE}|Ex03_UsingMVCViewTemplatesWithDataTemplates\\Ex03_UsingMVCViewTemplatesWithDataTemplates.csproj|solutionrelative:ex03_usingmvcviewtemplateswithdatatemplates\\controllers\\personcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DCF6DE0E-20FB-440F-B271-3C2FB70226DE}|Ex03_UsingMVCViewTemplatesWithDataTemplates\\Ex03_UsingMVCViewTemplatesWithDataTemplates.csproj|d:\\itmo_csaspnet\\02_practicalmvc\\labwork04_designingviews\\ex03_usingmvcviewtemplateswithdatatemplates\\views\\person\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DCF6DE0E-20FB-440F-B271-3C2FB70226DE}|Ex03_UsingMVCViewTemplatesWithDataTemplates\\Ex03_UsingMVCViewTemplatesWithDataTemplates.csproj|solutionrelative:ex03_usingmvcviewtemplateswithdatatemplates\\views\\person\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DCF6DE0E-20FB-440F-B271-3C2FB70226DE}|Ex03_UsingMVCViewTemplatesWithDataTemplates\\Ex03_UsingMVCViewTemplatesWithDataTemplates.csproj|d:\\itmo_csaspnet\\02_practicalmvc\\labwork04_designingviews\\ex03_usingmvcviewtemplateswithdatatemplates\\views\\person\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DCF6DE0E-20FB-440F-B271-3C2FB70226DE}|Ex03_UsingMVCViewTemplatesWithDataTemplates\\Ex03_UsingMVCViewTemplatesWithDataTemplates.csproj|solutionrelative:ex03_usingmvcviewtemplateswithdatatemplates\\views\\person\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DCF6DE0E-20FB-440F-B271-3C2FB70226DE}|Ex03_UsingMVCViewTemplatesWithDataTemplates\\Ex03_UsingMVCViewTemplatesWithDataTemplates.csproj|d:\\itmo_csaspnet\\02_practicalmvc\\labwork04_designingviews\\ex03_usingmvcviewtemplateswithdatatemplates\\views\\person\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DCF6DE0E-20FB-440F-B271-3C2FB70226DE}|Ex03_UsingMVCViewTemplatesWithDataTemplates\\Ex03_UsingMVCViewTemplatesWithDataTemplates.csproj|solutionrelative:ex03_usingmvcviewtemplateswithdatatemplates\\views\\person\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DCF6DE0E-20FB-440F-B271-3C2FB70226DE}|Ex03_UsingMVCViewTemplatesWithDataTemplates\\Ex03_UsingMVCViewTemplatesWithDataTemplates.csproj|d:\\itmo_csaspnet\\02_practicalmvc\\labwork04_designingviews\\ex03_usingmvcviewtemplateswithdatatemplates\\views\\person\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DCF6DE0E-20FB-440F-B271-3C2FB70226DE}|Ex03_UsingMVCViewTemplatesWithDataTemplates\\Ex03_UsingMVCViewTemplatesWithDataTemplates.csproj|solutionrelative:ex03_usingmvcviewtemplateswithdatatemplates\\views\\person\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DCF6DE0E-20FB-440F-B271-3C2FB70226DE}|Ex03_UsingMVCViewTemplatesWithDataTemplates\\Ex03_UsingMVCViewTemplatesWithDataTemplates.csproj|d:\\itmo_csaspnet\\02_practicalmvc\\labwork04_designingviews\\ex03_usingmvcviewtemplateswithdatatemplates\\views\\person\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DCF6DE0E-20FB-440F-B271-3C2FB70226DE}|Ex03_UsingMVCViewTemplatesWithDataTemplates\\Ex03_UsingMVCViewTemplatesWithDataTemplates.csproj|solutionrelative:ex03_usingmvcviewtemplateswithdatatemplates\\views\\person\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DCF6DE0E-20FB-440F-B271-3C2FB70226DE}|Ex03_UsingMVCViewTemplatesWithDataTemplates\\Ex03_UsingMVCViewTemplatesWithDataTemplates.csproj|d:\\itmo_csaspnet\\02_practicalmvc\\labwork04_designingviews\\ex03_usingmvcviewtemplateswithdatatemplates\\models\\personclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DCF6DE0E-20FB-440F-B271-3C2FB70226DE}|Ex03_UsingMVCViewTemplatesWithDataTemplates\\Ex03_UsingMVCViewTemplatesWithDataTemplates.csproj|solutionrelative:ex03_usingmvcviewtemplateswithdatatemplates\\models\\personclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\ITMO_CSASPNet\\02_PracticalMVC\\LabWork04_DesigningViews\\Ex03_UsingMVCViewTemplatesWithDataTemplates\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Ex03_UsingMVCViewTemplatesWithDataTemplates\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\ITMO_CSASPNet\\02_PracticalMVC\\LabWork04_DesigningViews\\Ex03_UsingMVCViewTemplatesWithDataTemplates\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Ex03_UsingMVCViewTemplatesWithDataTemplates\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAABkAAABRAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-13T17:24:45.532Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "D:\\ITMO_CSASPNet\\02_PracticalMVC\\LabWork04_DesigningViews\\Ex03_UsingMVCViewTemplatesWithDataTemplates\\Views\\Person\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Ex03_UsingMVCViewTemplatesWithDataTemplates\\Views\\Person\\Edit.cshtml",
+              "ToolTip": "D:\\ITMO_CSASPNet\\02_PracticalMVC\\LabWork04_DesigningViews\\Ex03_UsingMVCViewTemplatesWithDataTemplates\\Views\\Person\\Edit.cshtml",
+              "RelativeToolTip": "Ex03_UsingMVCViewTemplatesWithDataTemplates\\Views\\Person\\Edit.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-13T17:18:51.431Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "D:\\ITMO_CSASPNet\\02_PracticalMVC\\LabWork04_DesigningViews\\Ex03_UsingMVCViewTemplatesWithDataTemplates\\Views\\Person\\Delete.cshtml",
+              "RelativeDocumentMoniker": "Ex03_UsingMVCViewTemplatesWithDataTemplates\\Views\\Person\\Delete.cshtml",
+              "ToolTip": "D:\\ITMO_CSASPNet\\02_PracticalMVC\\LabWork04_DesigningViews\\Ex03_UsingMVCViewTemplatesWithDataTemplates\\Views\\Person\\Delete.cshtml",
+              "RelativeToolTip": "Ex03_UsingMVCViewTemplatesWithDataTemplates\\Views\\Person\\Delete.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-13T16:50:03.691Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "D:\\ITMO_CSASPNet\\02_PracticalMVC\\LabWork04_DesigningViews\\Ex03_UsingMVCViewTemplatesWithDataTemplates\\Views\\Person\\Details.cshtml",
+              "RelativeDocumentMoniker": "Ex03_UsingMVCViewTemplatesWithDataTemplates\\Views\\Person\\Details.cshtml",
+              "ToolTip": "D:\\ITMO_CSASPNet\\02_PracticalMVC\\LabWork04_DesigningViews\\Ex03_UsingMVCViewTemplatesWithDataTemplates\\Views\\Person\\Details.cshtml",
+              "RelativeToolTip": "Ex03_UsingMVCViewTemplatesWithDataTemplates\\Views\\Person\\Details.cshtml",
+              "ViewState": "AQIAAB8AAAAAAAAAAAAvwC0AAAA4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-13T16:02:34.803Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "D:\\ITMO_CSASPNet\\02_PracticalMVC\\LabWork04_DesigningViews\\Ex03_UsingMVCViewTemplatesWithDataTemplates\\Views\\Person\\Create.cshtml",
+              "RelativeDocumentMoniker": "Ex03_UsingMVCViewTemplatesWithDataTemplates\\Views\\Person\\Create.cshtml",
+              "ToolTip": "D:\\ITMO_CSASPNet\\02_PracticalMVC\\LabWork04_DesigningViews\\Ex03_UsingMVCViewTemplatesWithDataTemplates\\Views\\Person\\Create.cshtml",
+              "RelativeToolTip": "Ex03_UsingMVCViewTemplatesWithDataTemplates\\Views\\Person\\Create.cshtml",
+              "ViewState": "AQIAACEAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-13T15:53:13.383Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\ITMO_CSASPNet\\02_PracticalMVC\\LabWork04_DesigningViews\\Ex03_UsingMVCViewTemplatesWithDataTemplates\\Views\\Person\\Index.cshtml",
+              "RelativeDocumentMoniker": "Ex03_UsingMVCViewTemplatesWithDataTemplates\\Views\\Person\\Index.cshtml",
+              "ToolTip": "D:\\ITMO_CSASPNet\\02_PracticalMVC\\LabWork04_DesigningViews\\Ex03_UsingMVCViewTemplatesWithDataTemplates\\Views\\Person\\Index.cshtml",
+              "RelativeToolTip": "Ex03_UsingMVCViewTemplatesWithDataTemplates\\Views\\Person\\Index.cshtml",
+              "ViewState": "AQIAADMAAAAAAAAAAAAAADUAAABFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-13T15:46:23.013Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PersonController.cs",
+              "DocumentMoniker": "D:\\ITMO_CSASPNet\\02_PracticalMVC\\LabWork04_DesigningViews\\Ex03_UsingMVCViewTemplatesWithDataTemplates\\Controllers\\PersonController.cs",
+              "RelativeDocumentMoniker": "Ex03_UsingMVCViewTemplatesWithDataTemplates\\Controllers\\PersonController.cs",
+              "ToolTip": "D:\\ITMO_CSASPNet\\02_PracticalMVC\\LabWork04_DesigningViews\\Ex03_UsingMVCViewTemplatesWithDataTemplates\\Controllers\\PersonController.cs",
+              "RelativeToolTip": "Ex03_UsingMVCViewTemplatesWithDataTemplates\\Controllers\\PersonController.cs",
+              "ViewState": "AQIAAE8AAAAAAAAAAAAowGYAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-13T15:35:26.015Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "PersonClass.cs",
+              "DocumentMoniker": "D:\\ITMO_CSASPNet\\02_PracticalMVC\\LabWork04_DesigningViews\\Ex03_UsingMVCViewTemplatesWithDataTemplates\\Models\\PersonClass.cs",
+              "RelativeDocumentMoniker": "Ex03_UsingMVCViewTemplatesWithDataTemplates\\Models\\PersonClass.cs",
+              "ToolTip": "D:\\ITMO_CSASPNet\\02_PracticalMVC\\LabWork04_DesigningViews\\Ex03_UsingMVCViewTemplatesWithDataTemplates\\Models\\PersonClass.cs",
+              "RelativeToolTip": "Ex03_UsingMVCViewTemplatesWithDataTemplates\\Models\\PersonClass.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-13T15:26:08.813Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
