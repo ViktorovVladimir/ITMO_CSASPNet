@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Ex03_UsingMVCViewTemplatesWithDataTemplates")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+390c8b605dd769ca9a505d465eba70af22f1fefd")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+13af86743dcbfeac21098b25d3e6a1276d27c68f")]
 [assembly: System.Reflection.AssemblyProductAttribute("Ex03_UsingMVCViewTemplatesWithDataTemplates")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Ex03_UsingMVCViewTemplatesWithDataTemplates")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

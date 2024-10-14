@@ -140,14 +140,15 @@ namespace Ex03_UsingMVCViewTemplatesWithDataTemplates.Controllers
         // POST: PersonController/Delete/5
         [HttpPost]
         [ValidateAntiForgeryToken]
-        public ActionResult Delete(int id, IFormCollection collection)
+        //public ActionResult Delete(int id, IFormCollection collection)
+        public ActionResult Delete( PersonClass p )
         {
             try
             {   
                 //--.
                 foreach( PersonClass pn in people )
                 {   
-                    if( pn.Id == pn.Id )
+                    if( pn.Id == p.Id )
                     {
                         people.Remove(pn);
                     }
@@ -160,7 +161,6 @@ namespace Ex03_UsingMVCViewTemplatesWithDataTemplates.Controllers
                 return View();
             }
         }
-
 
     }
 }
