@@ -1,0 +1,58 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\ITMO_CSASPNet\\02_PracticalMVC\\LabWork06_UsingControllersToGennerateDataTemplates\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{009A25E0-DD57-4466-8DA1-9F01248FBE0A}|Ex03_Applying\u0421aching\\Ex03_Applying\u0421aching.csproj|d:\\itmo_csaspnet\\02_practicalmvc\\labwork06_usingcontrollerstogenneratedatatemplates\\ex03_applying\u0441aching\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{009A25E0-DD57-4466-8DA1-9F01248FBE0A}|Ex03_Applying\u0421aching\\Ex03_Applying\u0421aching.csproj|solutionrelative:ex03_applying\u0441aching\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{009A25E0-DD57-4466-8DA1-9F01248FBE0A}|Ex03_Applying\u0421aching\\Ex03_Applying\u0421aching.csproj|d:\\itmo_csaspnet\\02_practicalmvc\\labwork06_usingcontrollerstogenneratedatatemplates\\ex03_applying\u0441aching\\controllers\\bidcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{009A25E0-DD57-4466-8DA1-9F01248FBE0A}|Ex03_Applying\u0421aching\\Ex03_Applying\u0421aching.csproj|solutionrelative:ex03_applying\u0441aching\\controllers\\bidcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\ITMO_CSASPNet\\02_PracticalMVC\\LabWork06_UsingControllersToGennerateDataTemplates\\Ex03_Applying\u0421aching\\Program.cs",
+              "RelativeDocumentMoniker": "Ex03_Applying\u0421aching\\Program.cs",
+              "ToolTip": "D:\\ITMO_CSASPNet\\02_PracticalMVC\\LabWork06_UsingControllersToGennerateDataTemplates\\Ex03_Applying\u0421aching\\Program.cs",
+              "RelativeToolTip": "Ex03_Applying\u0421aching\\Program.cs",
+              "ViewState": "AQIAABgAAAAAAAAAAAAAACUAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-18T07:08:09.295Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BidController.cs",
+              "DocumentMoniker": "D:\\ITMO_CSASPNet\\02_PracticalMVC\\LabWork06_UsingControllersToGennerateDataTemplates\\Ex03_Applying\u0421aching\\Controllers\\BidController.cs",
+              "RelativeDocumentMoniker": "Ex03_Applying\u0421aching\\Controllers\\BidController.cs",
+              "ToolTip": "D:\\ITMO_CSASPNet\\02_PracticalMVC\\LabWork06_UsingControllersToGennerateDataTemplates\\Ex03_Applying\u0421aching\\Controllers\\BidController.cs",
+              "RelativeToolTip": "Ex03_Applying\u0421aching\\Controllers\\BidController.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAAwB0AAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-17T10:49:32.051Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
