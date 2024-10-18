@@ -1,0 +1,49 @@
+﻿@model IEnumerable<Ex01_UsingIndividualUserAccounts.Models.BidClass>
+
+@{
+    ViewData["Title"] = "Заявки";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+
+<h1>Index</h1>
+
+<p>
+    <a asp-action="Create">Создать новую заявку</a>
+</p>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.Name)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.CreditHead)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.bidDate)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.Name)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.CreditHead)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.bidDate)
+            </td>
+            <td>
+                <a asp-action="Edit" asp-route-id="@item.BidClassId">Изменить</a> |
+                <a asp-action="Details" asp-route-id="@item.BidClassId">Подробнее</a> |
+                <a asp-action="Delete" asp-route-id="@item.BidClassId">Удалить</a>
+            </td>
+        </tr>
+}
+    </tbody>
+</table>

@@ -1,0 +1,54 @@
+﻿@model IEnumerable<Ex01_UsingIndividualUserAccounts.Models.CreditClass>
+
+@{
+    ViewData["Title"] = "Index";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h1>Index</h1>
+
+<p>
+    <a asp-action="Create">Create New</a>
+</p>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.Head)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Period)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Sum)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Procent)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.Head)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Period)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Sum)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Procent)
+            </td>
+            <td>
+                <a asp-action="Edit" asp-route-id="@item.CreditClassId">Edit</a> |
+                <a asp-action="Details" asp-route-id="@item.CreditClassId">Details</a> |
+                <a asp-action="Delete" asp-route-id="@item.CreditClassId">Delete</a>
+            </td>
+        </tr>
+}
+    </tbody>
+</table>

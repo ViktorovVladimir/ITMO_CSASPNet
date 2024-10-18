@@ -1,0 +1,58 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\ITMO_CSASPNet\\02_PracticalMVC\\LabWork07_CreatingInteractivePagesASPNETMVC\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{009A25E0-DD57-4466-8DA1-9F01248FBE0A}|Ex01_UsingAJAXandPartialPages\\Ex01_UsingAJAXandPartialPages.csproj|d:\\itmo_csaspnet\\02_practicalmvc\\labwork07_creatinginteractivepagesaspnetmvc\\ex01_usingajaxandpartialpages\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{009A25E0-DD57-4466-8DA1-9F01248FBE0A}|Ex01_UsingAJAXandPartialPages\\Ex01_UsingAJAXandPartialPages.csproj|solutionrelative:ex01_usingajaxandpartialpages\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{009A25E0-DD57-4466-8DA1-9F01248FBE0A}|Ex01_UsingAJAXandPartialPages\\Ex01_UsingAJAXandPartialPages.csproj|d:\\itmo_csaspnet\\02_practicalmvc\\labwork07_creatinginteractivepagesaspnetmvc\\ex01_usingajaxandpartialpages\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{009A25E0-DD57-4466-8DA1-9F01248FBE0A}|Ex01_UsingAJAXandPartialPages\\Ex01_UsingAJAXandPartialPages.csproj|solutionrelative:ex01_usingajaxandpartialpages\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\ITMO_CSASPNet\\02_PracticalMVC\\LabWork07_CreatingInteractivePagesASPNETMVC\\Ex01_UsingAJAXandPartialPages\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Ex01_UsingAJAXandPartialPages\\Views\\Home\\Index.cshtml",
+              "ToolTip": "D:\\ITMO_CSASPNet\\02_PracticalMVC\\LabWork07_CreatingInteractivePagesASPNETMVC\\Ex01_UsingAJAXandPartialPages\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Ex01_UsingAJAXandPartialPages\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAC0AAAAAAAAAAAAAADgAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-18T08:39:35.921Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "D:\\ITMO_CSASPNet\\02_PracticalMVC\\LabWork07_CreatingInteractivePagesASPNETMVC\\Ex01_UsingAJAXandPartialPages\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Ex01_UsingAJAXandPartialPages\\Controllers\\HomeController.cs",
+              "ToolTip": "D:\\ITMO_CSASPNet\\02_PracticalMVC\\LabWork07_CreatingInteractivePagesASPNETMVC\\Ex01_UsingAJAXandPartialPages\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Ex01_UsingAJAXandPartialPages\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAADYAAAAAAAAAAAAowDsAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-18T08:25:18.995Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
