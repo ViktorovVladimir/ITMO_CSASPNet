@@ -1,0 +1,33 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34728.123
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Ex01_UsingAJAXandPartialPages", "Ex01_UsingAJAXandPartialPages\Ex01_UsingAJAXandPartialPages.csproj", "{009A25E0-DD57-4466-8DA1-9F01248FBE0A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A57AFF4F-901F-4B6F-9837-CC07549E5216}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A57AFF4F-901F-4B6F-9837-CC07549E5216}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A57AFF4F-901F-4B6F-9837-CC07549E5216}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A57AFF4F-901F-4B6F-9837-CC07549E5216}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DA73631F-C81C-42D5-8678-18BD1BEF1104}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DA73631F-C81C-42D5-8678-18BD1BEF1104}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DA73631F-C81C-42D5-8678-18BD1BEF1104}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DA73631F-C81C-42D5-8678-18BD1BEF1104}.Release|Any CPU.Build.0 = Release|Any CPU
+		{009A25E0-DD57-4466-8DA1-9F01248FBE0A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{009A25E0-DD57-4466-8DA1-9F01248FBE0A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{009A25E0-DD57-4466-8DA1-9F01248FBE0A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{009A25E0-DD57-4466-8DA1-9F01248FBE0A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C5B88B94-3A3B-463B-AE5E-0731643A454F}
+	EndGlobalSection
+EndGlobal

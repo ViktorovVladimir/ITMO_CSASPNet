@@ -1,0 +1,12 @@
+﻿
+
+@model IEnumerable<Ex01_UsingAJAXandPartialPages.Models.BidClass>
+<div id="result">
+    <h4> Все заявители кредита "@Model.First().CreditHead"</h4>
+    <ul>
+        @foreach (var item in Model)
+        {
+            <li>@item.Name</li>
+        }
+    </ul>
+</div>
