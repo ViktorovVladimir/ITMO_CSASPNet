@@ -16,7 +16,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Ex01_UsingIndividualUserAccounts")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e6c92c51218e6a8fbadf24ae5771c2cbae90b922")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+faa106f697fa3f473cfe1f98478f09a34d8e745f")]
 [assembly: System.Reflection.AssemblyProductAttribute("Ex01_UsingIndividualUserAccounts")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Ex01_UsingIndividualUserAccounts")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

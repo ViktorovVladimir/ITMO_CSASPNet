@@ -16,7 +16,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Ex01_UsingAJAXandPartialPages")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d010490f049d97f85bea9384980b0e144a9f4cda")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+faa106f697fa3f473cfe1f98478f09a34d8e745f")]
 [assembly: System.Reflection.AssemblyProductAttribute("Ex01_UsingAJAXandPartialPages")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Ex01_UsingAJAXandPartialPages")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -16,7 +16,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Ex02_SettingUpWorkWithData")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+187c34ec77ff3a0a58898f6a2f3939b450053f29")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+faa106f697fa3f473cfe1f98478f09a34d8e745f")]
 [assembly: System.Reflection.AssemblyProductAttribute("Ex02_SettingUpWorkWithData")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Ex02_SettingUpWorkWithData")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
