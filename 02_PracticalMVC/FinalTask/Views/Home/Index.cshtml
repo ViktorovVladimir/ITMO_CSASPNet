@@ -1,0 +1,172 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+}
+
+@if( TempData["SFErrorMessage"] != null )
+{
+    <div class="alert alert-danger">
+        @TempData["SFErrorMessage"]
+    </div>
+}
+@if( TempData["SFSuccessMessage"] != null)
+{
+    <div class="alert alert-success">
+        @TempData["SFSuccessMessage"]
+    </div>
+}
+
+<div class="text-center">
+    <h1 class="display-4">Welcome</h1>
+    <p>Learn about <a href="https://learn.microsoft.com/aspnet/core">building Web apps with ASP.NET Core</a>.</p>
+</div>
+
+
+<div class="text-body">
+    <p>You have entered a Web application that implements a system for recording student progress in given disciplines of study.</p>
+    <p>Main functionality:</p>
+    <ul>
+        <li>student information should be stored in a database;</li>
+        <li>data about students (including student scores) must be entered by the program user.</li>
+    </ul>
+    <p>Additional features:</p>
+    <ol>
+        <li>ability to calculate the amount of catches;</li>
+        <li>view the top five and worst students;</li>
+        <li>output a list of students with results to a text file.</li>
+    </ol>
+</div>
+<br/><br/>
+
+
+    <style>
+        td {
+            padding-right: 50px;
+        }
+    </style>
+
+
+<div class="row">
+
+    <div class="col-md-6">
+        <h3>Disciplines of study</h3>
+        <table>
+            <tr>
+                <td><p><b>Discipline</b></p></td>
+                <td><p><b>Teacher</b></p></td>
+            </tr>
+            @foreach( var c in ViewBag.Disciplines )
+            {
+                <tr>
+                    <td><p>@c.Name</p></td>                    
+                    <td><p>@c.TeacherName</p></td>
+                </tr>
+            }
+        </table>
+        <p><a asp-controller="Disciplines" asp-action="Index" asp->Add new discipline</a></p>
+    </div>
+    <br/>
+    <div class="col-md-6">
+        <h3>Students</h3>
+        <table>
+            <tr>
+                <td><p><b>Student name</b></p></td>
+                <td><p><b>Date of birth</b></p></td>
+                <td><p><b>Study group number</b></p></td>
+            </tr>
+            @foreach( var c in ViewBag.Students )
+            {
+                <tr>
+                    <td><p>@c.Name</p></td>
+
+                    <td><p>@String.Format("{0:dd MMM yyyy}", c.BirthDate)</p></td>
+                    <td><p>@c.GroupNumber</p></td>
+                </tr>
+            }
+        </table>
+        <p><a asp-controller="Students" asp-action="Index" asp->Add new student profile</a></p>
+    </div>
+    <br />
+    <br />
+    <br />
+    <br />
+
+    <div>
+        <h3>Sum of student scores (sorted alphabetically)</h3>
+        <table class="table">
+            <thead>
+                <tr>
+                    <th>Student name</th>
+                    <th>Total scores</th>
+                </tr>
+            </thead>
+            <tbody>
+                @foreach( var item in ViewBag.StudentSums )
+                {
+                   <tr>
+                       <td>@item.Name</td>
+                        <td>@item.TotalGrade</td>
+                   </tr>
+                }
+            </tbody>
+        </table>
+    </div>
+    <form method="post" action="@Url.Action("SaveToFile")">
+        <button type="submit" name="type" value="basesum" class="btn btn-info">
+            Save the data of the base sum student scores to a *.txt file
+        </button>
+    </form>
+
+
+    
+    <div>
+        <h3>Top five students based on total scores</h3>
+        <table class="table">
+            <thead>
+                <tr>
+                    <th>Student name</th>
+                    <th>Total scores</th>
+                </tr>
+            </thead>
+            <tbody>
+                @foreach( var item in ViewBag.TopStudent )
+                {
+                    <tr>
+                        <td>@item.Name</td>
+                        <td>@item.TotalGrade</td>
+                    </tr>
+                }
+            </tbody>
+        </table>
+    </div>
+    <form method="post" action="@Url.Action("SaveToFile")">
+        <button type="submit" name="type" value="top" class="btn btn-primary">
+            Save the data of the top five students to a *.txt file</button>
+    </form>
+    
+
+    <div>
+        <h3>Five worst students by total scores</h3>
+        <table class="table">
+            <thead>
+                <tr>
+                    <th>Student name</th>
+                    <th>Total scores</th>
+                </tr>
+            </thead>
+            <tbody>
+                @foreach (var item in ViewBag.BottomStudent)
+                {
+                    <tr>
+                        <td>@item.Name</td>
+                        <td>@item.TotalGrade</td>
+                    </tr>
+                }
+            </tbody>
+        </table>
+    </div>
+    
+    <form method="post" action="@Url.Action("SaveToFile")">
+        <button type="submit" name="type" value="down" class="btn btn-danger">
+            Save the data of the five worst students to a *.txt file</button>
+    </form>
+</div>

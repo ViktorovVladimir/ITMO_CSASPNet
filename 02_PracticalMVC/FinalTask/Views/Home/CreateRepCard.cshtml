@@ -1,0 +1,87 @@
+﻿
+@{
+    ViewData["Title"] = "CreateRepCard";
+}
+
+@if(TempData["ErrorMessage"] != null)
+{
+    <div class="alert alert-danger">
+        @TempData["ErrorMessage"]
+    </div>
+}
+@if(TempData["SuccessMessage"] != null)
+{
+    <div class="alert alert-success">
+        @TempData["SuccessMessage"]
+    </div>
+}
+
+<h3>Выставленные оценки</h3>
+<table>
+    <tr>
+        <td><p>ФИО</p></td>
+        <td><p>Дисциплина </p></td>
+        <td><p>Оценка </p></td>
+    </tr>
+    @foreach( var c in ViewBag.repCards )
+    {
+        <tr>
+            <td><p>@c.Name</p></td>
+            <td><p>@c.DisciplineHead </p></td>
+            <td><p>@c.grade </p></td>
+        </tr>
+    }
+</table>
+
+<h3>Ведомость оценок</h3>
+<form method="post" action="">
+    <table class="table">
+        <tr>
+            <td><p>Выберите из списка ученика</p></td>
+            <td>
+                <select name="Name">
+                    @foreach( var cr in ViewBag.Students )
+                    {
+                        <option>@cr.Name</option>
+                    }
+                </select>
+            </td>
+        </tr>
+        <tr>
+            <td><p>Выберите из списка дисциплину :</p></td>
+            <td>
+                <select name="DisciplineHead">
+                    @foreach( var cr in ViewBag.Disciplines )
+                    {
+                        <option> @cr.Name </option>
+                    }
+                </select>
+            </td>
+        </tr>
+        <tr>
+            <td><p>Выберите оценку :</p></td>
+            <td>
+                <select name="grade">
+                    @foreach (var cr in ViewBag.repGrades)
+                    {
+                        <option>@cr</option>
+                    }
+                </select>
+            </td>
+        </tr>
+        <tr>
+            <td><p>Введите дату сдачи</p></td>
+            <td><input type="date" class="form-control" name="dueDate" /> </td>
+
+        </tr>
+
+        <tr>
+            <td><input type="submit" value="Отправить" /> </td>
+            <td></td>
+        </tr>
+    </table>
+</form>
+
+<div>
+    <p><a asp-controller="Home" asp-action="Index" asp->Back to Home</a></p>
+</div>
