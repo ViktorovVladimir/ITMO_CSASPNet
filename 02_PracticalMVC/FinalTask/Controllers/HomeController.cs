@@ -196,7 +196,7 @@ namespace FinalTask.Controllers
             if( type == "basesum")
             {
                 //--.
-                students = GetTopStudents();
+                students = GetBaseSumStudents();
                 SaveToFile(students, "BaseSumStudents.txt");
                 TempData["SFSuccessMessage"] = "The data with the total points for all students was successfully saved to a file.";
             }

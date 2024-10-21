@@ -38,8 +38,7 @@
               "RelativeToolTip": "Views\\Home\\Index.cshtml",
               "ViewState": "AQIAAEAAAAAAAAAAAAAAAHIAAAA4AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-10-19T15:41:34.836Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-19T15:41:34.836Z"
             },
             {
               "$type": "Document",
@@ -49,7 +48,7 @@
               "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
               "ToolTip": "D:\\ITMO_CSASPNet\\02_PracticalMVC\\FinalTask\\Controllers\\HomeController.cs",
               "RelativeToolTip": "Controllers\\HomeController.cs",
-              "ViewState": "AQIAAGMAAAAAAAAAAAAYwGoAAAAAAAAA",
+              "ViewState": "AQIAALcAAAAAAAAAAAAowMYAAAAtAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-18T22:12:30.04Z",
               "EditorCaption": ""
